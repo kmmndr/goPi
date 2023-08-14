@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/luismesas/goPi/MCP23S17"
-	"github.com/luismesas/goPi/spi"
+	"github.com/kmmndr/goPi/MCP23S17"
+	"github.com/kmmndr/goPi/spi"
 	"log"
 	"time"
 )

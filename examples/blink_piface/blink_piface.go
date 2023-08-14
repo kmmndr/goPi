@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/luismesas/goPi/piface"
-	"github.com/luismesas/goPi/spi"
+	"github.com/kmmndr/goPi/piface"
+	"github.com/kmmndr/goPi/spi"
 	"time"
 )
 
